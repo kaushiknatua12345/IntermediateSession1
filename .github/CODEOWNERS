@@ -1,5 +1,5 @@
 
 # CODEOWNERS file
 # Format: path pattern  @github-username
-frontend/ @kaushiknatua12345
-backend/ @kaushiknatua12345
+/frontend/ @kaushiknatua12345
+/backend/ @kaushiknatua12345
