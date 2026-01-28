@@ -1,4 +1,10 @@
+
 # CODEOWNERS file
-# This file designates code owners for this repository.
 # Format: path pattern  @github-username
-@ kaushik.natua@hyland.com
+
+# Owners for the entire repository
+* @kaushiknatua12345 @rajdipta-biswas
+
+# Owners by folder
+frontend/ @kaushiknatua12345
+backend/ @kaushiknatua12345
