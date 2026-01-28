@@ -1,10 +1,5 @@
 
 # CODEOWNERS file
 # Format: path pattern  @github-username
-
-# Owners for the entire repository
-* @kaushiknatua12345 @rajdipta-biswas
-
-# Owners by folder
 frontend/ @kaushiknatua12345
 backend/ @kaushiknatua12345
