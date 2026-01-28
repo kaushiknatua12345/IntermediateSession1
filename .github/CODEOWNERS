@@ -3,4 +3,4 @@
 # Format: path pattern  @github-username
 
 # Code owner for login.ts file
-login.ts @kaushiknatua12345
+/login.ts @kaushiknatua12345
