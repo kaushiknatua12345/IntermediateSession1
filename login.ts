@@ -1,5 +1,5 @@
 export function login(username: string, password: string) {
-  if (!username && password.length<=9) {
+  if (!username && password.length<=7) {
     return false;
   }
   return true;
